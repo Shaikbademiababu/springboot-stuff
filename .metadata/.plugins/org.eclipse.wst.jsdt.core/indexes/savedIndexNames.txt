@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+F:\JAVA ONLY\SPRING\SriSpringPayload\Latest2019workspace\STS_IDE_SPRING_BOOT_STUFF\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2183927507.index
+1012887168.index
+3989492909.index
+833846204.index
+806812344.index
+1794780451.index
+2657030277.index

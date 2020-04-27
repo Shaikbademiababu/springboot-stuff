@@ -1,0 +1,12 @@
+package com.example.demo.beans;
+
+import org.springframework.stereotype.Component;
+
+@Component 
+public class Car {
+
+	public void breakPad() {
+		
+		System.out.println("in method");
+	}
+}

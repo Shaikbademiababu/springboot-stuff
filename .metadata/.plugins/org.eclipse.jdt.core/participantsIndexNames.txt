@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+F:\JAVA ONLY\SPRING\SriSpringPayload\Latest2019workspace\STS_IDE_SPRING_BOOT_STUFF\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2671128027.index
+\boot-basic-web\src\main\java
+F:\JAVA ONLY\SPRING\SriSpringPayload\Latest2019workspace\STS_IDE_SPRING_BOOT_STUFF\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3263234235.index
+\boot-web-deploy\src\main\java
+F:\JAVA ONLY\SPRING\SriSpringPayload\Latest2019workspace\STS_IDE_SPRING_BOOT_STUFF\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1128771866.index
+\boot-web-jdbc\src\main\java
+F:\JAVA ONLY\SPRING\SriSpringPayload\Latest2019workspace\STS_IDE_SPRING_BOOT_STUFF\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\526220819.index
+\embedded-web\src\main\java

@@ -1,0 +1,23 @@
+package com.example.demo;
+
+import org.apache.catalina.core.ApplicationContext;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
+
+import com.example.demo.beans.Car;
+import com.example.demo.beans.CarCaller;
+
+@SpringBootApplication
+public class ZoopBasicParentApplication {
+
+	public static void main(String[] args) {
+	ConfigurableApplicationContext ctx = 	SpringApplication.run(ZoopBasicParentApplication.class, args);
+	Car car = ctx.getBean("car",Car.class);
+	car.breakPad();
+	System.out.println(ctx.getBeanDefinitionNames().toString());
+	CarCaller carCaller  = ctx.getBean("carCaller",CarCaller.class);
+	carCaller.toString();
+	}
+
+}
